@@ -26,7 +26,7 @@ Users can create and delete notes with a beautiful UI and responsive layout.
 
 ## 📸 Preview
 
-<img width="800" alt="notes-app-preview" src="https://via.placeholder.com/800x400.png?text=Notes+App+Preview">
+
 
 ---
 
